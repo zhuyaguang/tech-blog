@@ -1,0 +1,82 @@
+{
+  "blogs": [
+    {
+      "title": "阮一峰的网络日志",
+      "description": "著名技术博主，分享 Web 开发、JavaScript、计算机科学等领域的知识。",
+      "url": "https://www.ruanyifeng.com/blog/",
+      "category": "综合技术"
+    },
+    {
+      "title": "酷壳 - CoolShell",
+      "description": "左耳朵耗子的技术博客，分享编程技术和思考。",
+      "url": "https://coolshell.cn/",
+      "category": "系统架构"
+    },
+    {
+      "title": "美团技术团队",
+      "description": "美团点评技术团队的博客，分享各种技术实践经验。",
+      "url": "https://tech.meituan.com/",
+      "category": "企业技术"
+    },
+    {
+      "title": "InfoQ",
+      "description": "关注软件开发领域的新闻、趋势和最佳实践。",
+      "url": "https://www.infoq.cn/",
+      "category": "技术资讯"
+    },
+    {
+      "title": "朱亚光",
+      "description": "朱亚光的博客",
+      "url": "https://zhuyaguang.github.io/",
+      "category": "技术资讯"
+    },
+    {
+      "title": "毛老师课代表",
+      "description": "毛老师课程笔记+operator教程",
+      "url": "http://lailin.xyz/archives/",
+      "category": "Go语言"
+    },
+    {
+      "title": "胡涛",
+      "description": "《k8s源码分析》+《深入理解 K8S 原理与实现》",
+      "url": "https://www.danielhu.cn/",
+      "category": "K8S"
+    },
+    {
+      "title": "ArthurChiao",
+      "description": "论文翻译+专注底层的携程大佬",
+      "url": "https://arthurchiao.art/articles-zh/",
+      "category": "架构"
+    },
+    {
+      "title": "煎鱼",
+      "description": "Go面试文章+Go语言进阶之旅",
+      "url": "https://eddycjy.com/posts/",
+      "category": "Go语言"
+    },
+    {
+      "title": "极客兔兔",
+      "description": "从零实现系列+Go 语言高性能编程",
+      "url": "https://geektutu.com/",
+      "category": "Go语言"
+    },
+    {
+      "title": "Go 文章材料库",
+      "description": "Go 文章材料库",
+      "url": "https://github.com/ardanlabs/gotraining/tree/master/reading",
+      "category": "Go语言"
+    },
+    {
+      "title": "徐亚松(占洋)",
+      "description": "etcd+promethus+k8s",
+      "url": "http://www.xuyasong.com/?page_id=1080",
+      "category": "K8S"
+    },
+    {
+      "title": "Tony Bai",
+      "description": "最新Go版本文章",
+      "url": "https://tonybai.com/",
+      "category": "K8S"
+    }
+  ]
+}
