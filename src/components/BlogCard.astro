@@ -9,7 +9,7 @@ interface Props {
 const { title, description, url, category } = Astro.props;
 ---
 
-<div class="bg-white p-6 rounded-lg shadow-md hover:shadow-lg transition-shadow">
+<div class="blog-card bg-white p-6 rounded-lg shadow-md hover:shadow-lg transition-shadow" data-category={category}>
   <div class="flex justify-between items-start mb-4">
     <h3 class="text-xl font-bold text-gray-900">{title}</h3>
     <span class="px-3 py-1 text-sm bg-purple-100 text-purple-800 rounded-full">{category}</span>

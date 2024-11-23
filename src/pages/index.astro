@@ -5,7 +5,6 @@ import SearchBar from '../components/SearchBar.vue';
 import blogConfig from '../config/blogs.json';
 
 const blogs = blogConfig.blogs;
-
 const categories = [...new Set(blogs.map(blog => blog.category))];
 
 ---
@@ -21,9 +20,16 @@ const categories = [...new Set(blogs.map(blog => blog.category))];
     <div class="mb-12">
       <h2 class="text-2xl font-semibold text-gray-800 mb-6">分类浏览</h2>
       <div class="flex flex-wrap gap-4 mb-8">
+        <button
+          class="px-4 py-2 rounded-full bg-gray-100 text-gray-800 hover:bg-purple-200 transition-colors category-btn active"
+          data-category="all"
+        >
+          全部
+        </button>
         {categories.map((category) => (
           <button
-            class="px-4 py-2 rounded-full bg-purple-100 text-purple-800 hover:bg-purple-200 transition-colors"
+            class="px-4 py-2 rounded-full bg-purple-100 text-purple-800 hover:bg-purple-200 transition-colors category-btn"
+            data-category={category}
           >
             {category}
           </button>
@@ -31,10 +37,82 @@ const categories = [...new Set(blogs.map(blog => blog.category))];
       </div>
     </div>
 
-    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6" id="blog-grid">
       {blogs.map((blog) => (
         <BlogCard {...blog} />
       ))}
     </div>
   </main>
 </Layout>
+
+<script>
+  let allBlogs = [];
+  
+  // 获取所有博客卡片
+  function initBlogs() {
+    allBlogs = Array.from(document.querySelectorAll('.blog-card')).map(card => ({
+      element: card,
+      title: card.querySelector('h3').textContent.toLowerCase(),
+      description: card.querySelector('p').textContent.toLowerCase(),
+      category: card.dataset.category
+    }));
+  }
+
+  // 搜索功能
+  function searchBlogs(query) {
+    const searchTerm = query.toLowerCase();
+    allBlogs.forEach(blog => {
+      const matches = blog.title.includes(searchTerm) || 
+                     blog.description.includes(searchTerm);
+      blog.element.style.display = matches ? '' : 'none';
+    });
+  }
+
+  // 分类筛选功能
+  function filterBlogs(category) {
+    const buttons = document.querySelectorAll('.category-btn');
+    
+    // Update active button
+    buttons.forEach(btn => {
+      btn.classList.remove('active', 'bg-purple-200');
+      if (btn.dataset.category === category) {
+        btn.classList.add('active', 'bg-purple-200');
+      }
+    });
+
+    allBlogs.forEach(blog => {
+      if (category === 'all' || blog.category === category) {
+        blog.element.style.display = '';
+      } else {
+        blog.element.style.display = 'none';
+      }
+    });
+  }
+
+  // 初始化
+  document.addEventListener('DOMContentLoaded', () => {
+    initBlogs();
+
+    // 添加搜索事件监听
+    const searchBar = document.querySelector('input[type="text"]');
+    searchBar.addEventListener('input', (e) => {
+      searchBlogs(e.target.value);
+    });
+
+    // 添加分类按钮事件监听
+    document.querySelectorAll('.category-btn').forEach(button => {
+      button.addEventListener('click', () => {
+        filterBlogs(button.dataset.category);
+      });
+    });
+  });
+</script>
+
+<style>
+  .category-btn.active {
+    background-color: rgb(233 213 255);
+  }
+  .blog-card {
+    transition: all 0.3s ease;
+  }
+</style>

@@ -1,0 +1,80 @@
+﻿headline,url,tags,note
+朱亚光,https://zhuyaguang.github.io/,,
+毛剑老师课代表,http://lailin.xyz/archives/,"Go, 微服务",毛老师课程笔记+operator教程
+胡涛,https://www.danielhu.cn/,K8S源码,《k8s源码分析》+《深入理解 K8S 原理与实现》
+ArthurChiao,https://arthurchiao.art/articles-zh/,架构,论文翻译+专注底层的携程大佬
+煎鱼,https://eddycjy.com/posts/,Go,Go面试文章+Go语言进阶之旅
+" 极客兔兔",https://geektutu.com/,Go,从零实现系列+Go 语言高性能编程
+徐亚松(占洋),http://www.xuyasong.com/?page_id=1080,"K8S源码, 云原生",etcd+promethus+k8s
+Go 文章材料库,https://github.com/ardanlabs/gotraining/tree/master/reading,Go,
+Tony Bai,https://tonybai.com/,Go,最新Go版本文章
+鸟窝,https://colobu.com/,Go,Go 经典论文翻译
+田飞雨,https://blog.tianfeiyu.com/archives/,K8S源码,kubernetes 源码分析
+曹大,https://xargin.com/,"有书单, 架构",Go语言笔记
+阳明老师,https://www.qikqiak.com/,"云原生, 微服务",云原生相关基本都有教程
+面向信仰编程 Draveness,https://draveness.me/,"Go, 有书单",《Go 语言设计与实现》
+laixintao,https://www.kawabangga.com/all-posts,"SRE, 国外",Shopee as an SRE
+EricZhou,https://mojotv.cn/,Go,Go 小工具文章
+峰云就她了,http://xiaorui.cc/,"Go, 有书单",
+码农桃花源,https://qcrao91.gitbook.io/go/,Go,Go-Questions
+Go语言充电站,https://lessisbetter.site/,Go,大彬
+Go大神Dave Cheney,https://dave.cheney.net/,Go,
+halfrost,https://github.com/halfrost/Halfrost-Field,Go,算法大神 全栈大神
+熊喵君,https://pandaychen.github.io/archive/,"Go, 微服务",
+潘剑锋/潘少,https://strikefreedom.top/archives.html,"Go, 有书单",开源大佬ants作者
+小赖子的英国生活,https://justyy.com/,国外,刷题大佬、大龄英国程序员
+JOEL ON SOFTWARE,https://www.joelonsoftware.com/,国外,Stack Overflow CEO
+欧长坤,https://blog.changkun.de/posts/,国外,慕尼黑大学老师
+六月天天,https://junedayday.github.io/archives/,"Go, 微服务",
+迟先生,https://www.skyzh.dev/posts/,rust,上交学生、TIKV贡献者
+李帅,https://www.lishuai.fun/,"K8S源码, 云原生",
+漩涡,https://xuanwo.io/about/,"Go, rust, 友链",Databend
+2022,---------------------------------------,--------------------,———————————————————————————
+胡津铭,https://www.zhihu.com/people/hu-jin-ming-31/posts,知乎,DolphinDB
+Joe,https://www.notion.so/Joe-2a85f5be01004cd2b6a5ad26fbb948b1,国外,"使用工具的产品经理 "
+木子,https://blog.k8s.li/,"K8S源码, 有书单",前字节私有云打包工具人
+zverok,https://zverok.github.io/blog/,ruby,理解中国山水画的乌克兰人
+Fred Wang,https://www.kenshinji.me/,国外,跑去德国的程序员
+Benjamin Vesterby,https://benjiv.com/,Go,Go语言
+林键,https://www.lynkii.xyz/s/about,树莓派,机器学习和树莓派
+https://mirror.xyz/masterpa.eth,https://mirror.xyz/masterpa.eth,web 3.0,web3.0 区块链
+吴亲库里,https://www.syst.top/,Go,
+https://github.com/Folyd 的TO-D 杂志,https://2d2d.io/,云原生,
+云风,https://blog.codingnow.com/,,程序员修炼之道译者
+磊哥的 IT 手记,https://redhatxl.github.io/,"Go, K8S源码",
+枫言枫语,https://justinyan.me/,,播客达人
+奇伢,https://www.qiyacloud.cn/,Go,
+於清樂,https://thiscute.world/about/,"年度总结, 有书单",大宇无限 员工
+唐源,https://terrytangyuan.github.io/about/,AI,AI 基础架构和自动机器学习平台大佬
+Matt Butcher,http://technosophos.com/,,
+二丫讲梵,https://wiki.eryajf.net/,,http://ldapdoc.eryajf.net/ 作者
+Raghava Dhanya,https://ragv.in/,,Go with ML
+王军舰,https://wangjunjian.com/about/,,GPU K8s
+趋势科技,https://www.yuque.com/serviceup,云原生,驭势云脑团队云原生博客集
+https://www.maxieewong.com/,https://www.maxieewong.com/,,硬件大佬，读英文博客，会总结文章结构内容
+icyleaf,https://icyleaf.com/,,硬件
+马大伟,https://www.bmpi.dev/,年度总结,终身学习（认知杠杆）* 全栈技术（时间杠杆）* 投资理财（财务杠杆） => 被动收入（人生杠杆）
+Tiexin Guo,https://www.guotiexin.com/,云原生,郭铁心
+高策,http://gaocegege.com/Blog/,"AI, 年度总结",Co-chair @kubeflow
+Bartlomiej Mika,https://bartlomiejmika.com/,"Go, 国外",
+Nova Kwok,https://nova.moe/posts/,树莓派,Cloudflare
+古思为,https://siwei.io/about/,云原生,开源的分布式图数据库 https://nebula-graph.com.cn/
+罗磊,https://luolei.org/,,高级前端
+2023,--------------------------------------,--------------------,———————————————————————————
+Arun,https://arun.is/,英文,设计师、作家、摄影家
+赵生宇,https://blog.frankzhao.cn/,,开源大牛
+图拉鼎,https://imtx.me/,,良渚文化村村民
+晓晨,https://zhiqiang.li/archives/,,
+Manjusaka,https://www.manjusaka.blog/about,,
+zhouzihao,https://zzhou.info/about/,,deepspeed
+ShīnChvën,https://atlassc.net/,,azure 达人
+范康,https://fankangbest.github.io/about/,,之江同事范康
+2024,-------------------------------------,--------------------,———————————————————————————-
+jooks,https://www.jooks.cn/about/,,kubeedge 笔记
+Joe 的折腾日记,https://houjoe.notion.site/houjoe/Joe-2a85f5be01004cd2b6a5ad26fbb948b1,,notion做博客牛逼
+云原生笔记,https://blog.bwcxtech.com/,,
+可乐去冰,https://isekiro.com/,,云原生运维
+https://arthurchiao.github.io/,https://arthurchiao.art/articles-zh/,,携程大佬
+不忘初心,https://blog.bwcxtech.com/posts/,,
+ermian,https://www.ermian.site/about,,"AI "
+https://tendcode.com/,https://tendcode.com/,年度总结,工作9年运维老哥

@@ -77,6 +77,408 @@
       "description": "最新Go版本文章",
       "url": "https://tonybai.com/",
       "category": "K8S"
-    }
-  ]
+    },
+    {
+      "title": "鸟窝",
+      "description": "Go 经典论文翻译",
+      "url": "https://colobu.com/",
+      "category": "Go语言"
+    },
+{
+  "title": "田飞雨",
+  "description": "K8S源码,kubernetes 源码分析",
+  "url": "https://blog.tianfeiyu.com/archives/",
+  "category": "K8S"
+},
+{
+  "title": "曹大",
+  "description": "有书单, 架构",
+  "url": "https://xargin.com/",
+  "category": "Go语言"
+},
+{
+  "title": "阳明老师",
+  "description": "云原生, 微服务",
+  "url": "https://www.qikqiak.com/",
+  "category": "云原生"
+},
+{
+  "title": "Draveness",
+  "description": "Go, 有书单",
+  "url": "https://draveness.me/",
+  "category": "Go语言"
+},
+{
+  "title": "laixintao",
+  "description": "SRE, 国外",
+  "url": "https://www.kawabangga.com/all-posts",
+  "category": "SRE"
+},
+{
+  "title": "EricZhou",
+  "description": "Go 小工具文章",
+  "url": "https://mojotv.cn/",
+  "category": "Go语言"
+},
+{
+  "title": "峰云就她了",
+  "description": "Go, 有书单",
+  "url": "http://xiaorui.cc/",
+  "category": "Go语言"
+},
+{
+  "title": "码农桃花源",
+  "description": "Go,Go-Questions",
+  "url": "https://qcrao91.gitbook.io/go/",
+  "category": "Go语言"
+},
+{
+  "title": "Go语言充电站",
+  "description": "Go,大彬",
+  "url": "https://lessisbetter.site/",
+  "category": "Go语言"
+},
+{
+  "title": "Go大神Dave Cheney",
+  "description": "Go",
+  "url": "https://dave.cheney.net/",
+  "category": "Go语言"
+},
+{
+  "title": "halfrost",
+  "description": "算法大神 全栈大神",
+  "url": "https://github.com/halfrost/Halfrost-Field",
+  "category": "Go语言"
+},
+{
+  "title": "熊喵君",
+  "description": "Go, 微服务",
+  "url": "https://pandaychen.github.io/archive/",
+  "category": "Go语言"
+},
+{
+  "title": "潘剑锋",
+  "description": "开源大佬ants作者",
+  "url": "https://strikefreedom.top/archives.html",
+  "category": "Go语言"
+},
+{
+  "title": "小赖子的英国生活",
+  "description": "刷题大佬、大龄英国程序员",
+  "url": "https://justyy.com/",
+  "category": "国外"
+},
+{
+  "title": "JOEL ON SOFTWARE",
+  "description": "Stack Overflow CEO",
+  "url": "https://www.joelonsoftware.com/",
+  "category": "国外"
+},
+{
+  "title": "欧长坤",
+  "description": "慕尼黑大学老师",
+  "url": "https://blog.changkun.de/posts/",
+  "category": "国外"
+},
+{
+  "title": "六月天天",
+  "description": "Go, 微服务",
+  "url": "https://junedayday.github.io/archives/",
+  "category": "Go语言"
+},
+{
+  "title": "迟先生",
+  "description": "上交学生、TIKV贡献者",
+  "url": "https://www.skyzh.dev/posts/",
+  "category": "Rust"
+},
+{
+  "title": "李帅",
+  "description": "K8S源码, 云原生",
+  "url": "https://www.lishuai.fun/",
+  "category": "K8S"
+},
+{
+  "title": "漩涡",
+  "description": "Databend",
+  "url": "https://xuanwo.io/about/",
+  "category": "Go语言"
+},
+{
+    "title": "胡津铭",
+    "description": "DolphinDB",
+    "url": "https://www.zhihu.com/people/hu-jin-ming-31/posts",
+    "category": "知乎"
+  },
+  {
+    "title": "Joe",
+    "description": "使用工具的产品经理",
+    "url": "https://www.notion.so/Joe-2a85f5be01004cd2b6a5ad26fbb948b1",
+    "category": "国外"
+  },
+  {
+    "title": "木子",
+    "description": "前字节私有云打包工具人",
+    "url": "https://blog.k8s.li/",
+    "category": "K8S"
+  },
+  {
+    "title": "zverok",
+    "description": "理解中国山水画的乌克兰人",
+    "url": "https://zverok.github.io/blog/",
+    "category": "Ruby"
+  },
+  {
+    "title": "Fred Wang",
+    "description": "跑去德国的程序员",
+    "url": "https://www.kenshinji.me/",
+    "category": "国外"
+  },
+  {
+    "title": "Benjamin Vesterby",
+    "description": "Go语言",
+    "url": "https://benjiv.com/",
+    "category": "Go语言"
+  },
+  {
+    "title": "林键",
+    "description": "机器学习和树莓派",
+    "url": "https://www.lynkii.xyz/s/about",
+    "category": "树莓派"
+  },
+  {
+    "title": "masterpa",
+    "description": "web3.0 区块链",
+    "url": "https://mirror.xyz/masterpa.eth",
+    "category": "Web3"
+  },
+  {
+    "title": "吴亲库里",
+    "description": "",
+    "url": "https://www.syst.top/",
+    "category": "Go语言"
+  },
+  {
+    "title": "TO-D 杂志",
+    "description": "",
+    "url": "https://2d2d.io/",
+    "category": "云原生"
+  },
+  {
+    "title": "云风",
+    "description": "程序员修炼之道译者",
+    "url": "https://blog.codingnow.com/",
+    "category": "综合技术"
+  },
+  {
+    "title": "磊哥的 IT 手记",
+    "description": "",
+    "url": "https://redhatxl.github.io/",
+    "category": "Go语言"
+  },
+  {
+    "title": "枫言枫语",
+    "description": "播客达人",
+    "url": "https://justinyan.me/",
+    "category": "播客"
+  },
+  {
+    "title": "奇伢",
+    "description": "",
+    "url": "https://www.qiyacloud.cn/",
+    "category": "Go语言"
+  },
+  {
+    "title": "於清樂",
+    "description": "大宇无限 员工",
+    "url": "https://thiscute.world/about/",
+    "category": "年度总结"
+  },
+  {
+    "title": "唐源",
+    "description": "AI 基础架构和自动机器学习平台大佬",
+    "url": "https://terrytangyuan.github.io/about/",
+    "category": "AI"
+  },
+  {
+    "title": "Matt Butcher",
+    "description": "",
+    "url": "http://technosophos.com/",
+    "category": "云原生"
+  },
+  {
+    "title": "二丫讲梵",
+    "description": "ldapdoc.eryajf.net 作者",
+    "url": "https://wiki.eryajf.net/",
+    "category": "综合技术"
+  },
+  {
+    "title": "Raghava Dhanya",
+    "description": "Go with ML",
+    "url": "https://ragv.in/",
+    "category": "Go语言"
+  },
+  {
+    "title": "王军舰",
+    "description": "GPU K8s",
+    "url": "https://wangjunjian.com/about/",
+    "category": "K8S"
+  },
+  {
+    "title": "趋势科技",
+    "description": "驭势云脑团队云原生博客集",
+    "url": "https://www.yuque.com/serviceup",
+    "category": "云原生"
+  },
+  {
+    "title": "maxieewong",
+    "description": "硬件大佬，读英文博客，会总结文章结构内容",
+    "url": "https://www.maxieewong.com/",
+    "category": "硬件"
+  },
+  {
+    "title": "icyleaf",
+    "description": "硬件",
+    "url": "https://icyleaf.com/",
+    "category": "硬件"
+  },
+  {
+    "title": "马大伟",
+    "description": "终身学习（认知杠杆）* 全栈技术（时间杠杆）* 投资理财（财务杠杆） => 被动收入（人生杠杆）",
+    "url": "https://www.bmpi.dev/",
+    "category": "年度总结"
+  },
+  {
+    "title": "Tiexin Guo",
+    "description": "郭铁心",
+    "url": "https://www.guotiexin.com/",
+    "category": "云原生"
+  },
+  {
+    "title": "高策",
+    "description": "Co-chair @kubeflow",
+    "url": "http://gaocegege.com/Blog/",
+    "category": "AI"
+  },
+  {
+    "title": "Bartlomiej Mika",
+    "description": "",
+    "url": "https://bartlomiejmika.com/",
+    "category": "Go语言"
+  },
+  {
+    "title": "Nova Kwok",
+    "description": "Cloudflare",
+    "url": "https://nova.moe/posts/",
+    "category": "树莓派"
+  },
+  {
+    "title": "古思为",
+    "description": "开源的分布式图数据库 nebula-graph",
+    "url": "https://siwei.io/about/",
+    "category": "云原生"
+  },
+  {
+    "title": "罗磊",
+    "description": "高级前端",
+    "url": "https://luolei.org/",
+    "category": "前端"
+  }
+,{
+  "title": "Arun",
+  "description": "设计师、作家、摄影家",
+  "url": "https://arun.is/",
+  "category": "设计"
+},
+{
+  "title": "赵生宇",
+  "description": "开源大牛",
+  "url": "https://blog.frankzhao.cn/",
+  "category": "开源"
+},
+{
+  "title": "图拉鼎",
+  "description": "良渚文化村村民",
+  "url": "https://imtx.me/",
+  "category": "综合技术"
+},
+{
+  "title": "晓晨",
+  "description": "",
+  "url": "https://zhiqiang.li/archives/",
+  "category": "综合技术"
+},
+{
+  "title": "Manjusaka",
+  "description": "",
+  "url": "https://www.manjusaka.blog/about",
+  "category": "综合技术"
+},
+{
+  "title": "zhouzihao",
+  "description": "deepspeed",
+  "url": "https://zzhou.info/about/",
+  "category": "AI"
+},
+{
+  "title": "ShīnChvën",
+  "description": "azure 达人",
+  "url": "https://atlassc.net/",
+  "category": "云原生"
+},
+{
+  "title": "范康",
+  "description": "之江同事范康",
+  "url": "https://fankangbest.github.io/about/",
+  "category": "综合技术"
+},
+{
+  "title": "jooks",
+  "description": "kubeedge 笔记",
+  "url": "https://www.jooks.cn/about/",
+  "category": "云原生"
+},
+{
+  "title": "Joe 的折腾日记",
+  "description": "notion做博客牛逼",
+  "url": "https://houjoe.notion.site/houjoe/Joe-2a85f5be01004cd2b6a5ad26fbb948b1",
+  "category": "工具"
+},
+{
+  "title": "云原生笔记",
+  "description": "",
+  "url": "https://blog.bwcxtech.com/",
+  "category": "云原生"
+},
+{
+  "title": "可乐去冰",
+  "description": "云原生运维",
+  "url": "https://isekiro.com/",
+  "category": "云原生"
+},
+{
+  "title": "ArthurChiao",
+  "description": "携程大佬",
+  "url": "https://arthurchiao.github.io/",
+  "category": "综合技术"
+},
+{
+  "title": "不忘初心",
+  "description": "",
+  "url": "https://blog.bwcxtech.com/posts/",
+  "category": "云原生"
+},
+{
+  "title": "ermian",
+  "description": "AI",
+  "url": "https://www.ermian.site/about",
+  "category": "AI"
+},
+{
+  "title": "tendcode",
+  "description": "工作9年运维老哥",
+  "url": "https://tendcode.com/",
+  "category": "年度总结"
+}
+]
 }
