@@ -28,15 +28,22 @@ const blogs = [
     url: "https://www.infoq.cn/",
     category: "技术资讯"
   },
-    {
+  {
     title: "朱亚光",
     description: "朱亚光的博客",
     url: "https://zhuyaguang.github.io/",
     category: "技术资讯"
+  },
+  // 从 Notion 页面添加的新条目
+  {
+    title: "毛老师课代表", 
+    description: "毛老师课程笔记+operator教程", 
+    url: "http://lailin.xyz/archives/", 
+    category: "Go语言"
   }
 ];
 
-const categories = [...new Set(blogs.map(blog => blog.category))];
+const categories = [...new Set(blogs.map(blog => blog.category));
 ---
 
 <Layout title="博客导航">
